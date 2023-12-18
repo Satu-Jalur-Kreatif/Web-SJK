@@ -11,7 +11,9 @@ $(document).ready(function(){
 
         if($(window).scrollTop()>35)
         {
-            $('.header').css({'background':'#002e5f','box-shadow':'0 .2rem .5rem rgba(0,0,0,.4)'});
+            // $('.header').css({'background':'#f9ecc2','box-shadow':'0 .2rem .5rem rgba(0,0,0,.4)'});//kuning
+            $('.header').css({'background':'#0e0f0e','box-shadow':'0 .2rem .5rem rgba(0,0,0,.4)'});//hitam
+            // $('.header').css({'background':'#002e5f','box-shadow':'0 .2rem .5rem rgba(0,0,0,.4)'});//biru
         }
         else
         {
